@@ -1,0 +1,21 @@
+# 데이터 폴더 무시
+Data/
+
+# 캐시 및 로그 무시
+__pycache__/
+*.log
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# 환경파일
+.env
+*.yml
+
+# 모델 가중치 파일
+*.pth
+*.pt
+
+# 기타 IDE 생성 파일
+*.vscode/
+.DS_Store
